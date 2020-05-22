@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml_main>
+	<xml_tag attr="attr_val"/>
+
+	<!--next line was added-->
+
+	<!--next line was changed-->
+	<changed_line/>
+
+	<!--next line was removed-->
+	<removed_line/>
+</xml_main>
+
+<!-- eof -->

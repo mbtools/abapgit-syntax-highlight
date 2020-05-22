@@ -1,0 +1,12 @@
+{
+    "name": "value",
+    "array": ["value", true, false, null],
+    
+    "next line 1": "was added",
+
+    "next line 2": "was changed",
+    "name 2": "value",
+
+    "next line 3": "was removed",
+    "name 3": "value"
+}
