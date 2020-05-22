@@ -1,0 +1,11 @@
+Some text
+
+Next line was added
+
+Next line was changed
+hello world
+
+Next line was removed
+hello world
+
+eof
