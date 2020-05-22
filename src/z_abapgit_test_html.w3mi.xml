@@ -21,7 +21,7 @@
      <RELID>MI</RELID>
      <OBJID>Z_ABAPGIT_TEST_HTML</OBJID>
      <NAME>mimetype</NAME>
-     <VALUE>application/xhtml+xml</VALUE>
+     <VALUE>application/html</VALUE>
     </WWWPARAMS>
    </PARAMS>
   </asx:values>
