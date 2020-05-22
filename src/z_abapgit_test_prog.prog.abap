@@ -18,4 +18,4 @@ variable = 'some text'. " in-line comment
 variable = |some text|.
 variable = |some { variable } text|.
 
-* eof *
+* eof **
