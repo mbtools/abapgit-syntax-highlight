@@ -15,7 +15,7 @@
      <RELID>MI</RELID>
      <OBJID>Z_ABAPGIT_TEST_TXT</OBJID>
      <NAME>filename</NAME>
-     <VALUE>z_abapgit_test_txt.txt</VALUE>
+     <VALUE>~wwwtmp.txt</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
      <RELID>MI</RELID>
