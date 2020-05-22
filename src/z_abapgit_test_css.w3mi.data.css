@@ -1,43 +1,27 @@
+/* next line was added */
+
+/* next line was changed */
+p  { color: yellow; }
+
+/* next line was removed */
+p  { color: yellow; }
+
 /*
  * Multi-line comment
  */
 
 /* Another comment */
-body {  
-  background-image: /* in-line comment */ url("some text");
-}
+body { background-image: /* in-line comment */ url("some text"); }
 
-/* properties + values */
-.class { text-align: right; }
+/* diff */
 
-/* selector */
-.class:hover { text-decoration: none; }
-
-/* functions */
-.class { color: rgb(0,0,0); }
-
-/* units */    
-.class { font-size: 10px; }
-
-/* colors */
-.class { color: lemonchiffon; }
-
-/* extensions */
-.class { -ms-scrollbar-face-color: red }
-
-/* at_rules */
-.class { @font-face: "Arial" }
-
-/* html */
-div ul { font-size: 2em; }
-
-
-/* next line was added */
-p  { color: yellow; }
-
-/* next line was changed */
-p  { color: red; }
-
-/* next line was removed */
+/* properties + values */ .myclass { text-align: right; }
+/* selector */            .myclass:hover { text-decoration: none; }
+/* functions */           .myclass { color: rgb(0,0,0); }
+/* units */               .myclass { font-size: 10px; }
+/* colors */              .myclass { color: lemonchiffon; }
+/* extensions */          .myclass { -ms-scrollbar-face-color: none }
+/* at_rules */            .myclass { @font-face: "Arial" }
+/* html */                div ul { font-size: 2em; }
 
 /* eof */
