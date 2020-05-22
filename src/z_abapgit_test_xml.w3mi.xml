@@ -15,13 +15,13 @@
      <RELID>MI</RELID>
      <OBJID>Z_ABAPGIT_TEST_XML</OBJID>
      <NAME>filename</NAME>
-     <VALUE>z_abapgit_test_xml.xml</VALUE>
+     <VALUE>~wwwtmp.xml</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
      <RELID>MI</RELID>
      <OBJID>Z_ABAPGIT_TEST_XML</OBJID>
      <NAME>mimetype</NAME>
-     <VALUE>application/xml</VALUE>
+     <VALUE>&quot;application/ccxml+xml,&quot;</VALUE>
     </WWWPARAMS>
    </PARAMS>
   </asx:values>

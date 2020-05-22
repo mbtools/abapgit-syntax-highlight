@@ -15,7 +15,7 @@
      <RELID>MI</RELID>
      <OBJID>Z_ABAPGIT_TEST_JSON</OBJID>
      <NAME>filename</NAME>
-     <VALUE>z_abapgit_test_json.json</VALUE>
+     <VALUE>~wwwtmp.json</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
      <RELID>MI</RELID>
