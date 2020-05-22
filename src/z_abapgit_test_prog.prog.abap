@@ -1,17 +1,7 @@
 *&---------------------------------------------------------------------*
-*& Report Z_ABAPGIT_TEST_PROG
-*&---------------------------------------------------------------------*
 *& This is a comment
 *&---------------------------------------------------------------------*
-
 REPORT z_abapgit_test_prog.
-
-" Another comment
-DATA variable TYPE string.
-
-variable = 'some text'. " in-line comment
-variable = |some text|.
-variable = |some { variable } text|.
 
 * next line was added
 
@@ -20,5 +10,12 @@ MESSAGE 'changed line' TYPE 'I'.
 
 * next line was removed
 MESSAGE 'removed line' TYPE 'I'.
+
+" Another comment
+DATA variable TYPE string.
+
+variable = 'some text'. " in-line comment
+variable = |some text|.
+variable = |some { variable } text|.
 
 * eof *
