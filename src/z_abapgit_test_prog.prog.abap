@@ -16,11 +16,11 @@ variable = |some text|.
 variable = |some { variable } text|.
 
 * next line was added
+MESSAGE 'added line' TYPE 'I'.
 
 * next line was changed
-MESSAGE 'changed line' TYPE 'I'.
+MESSAGE 'changed line' TYPE 'W'.
 
 * next line was removed
-MESSAGE 'removed line' TYPE 'I'.
 
 * eof *
