@@ -1,6 +1,3 @@
-*&---------------------------------------------------------------------*
-*& This is a comment
-*&---------------------------------------------------------------------*
 REPORT z_abapgit_test_prog.
 
 * next line was added
@@ -11,6 +8,7 @@ MESSAGE 'changed line' TYPE 'I'.
 * next line was removed
 MESSAGE 'removed line' TYPE 'I'.
 
+* Some comment
 " Another comment
 DATA variable TYPE string.
 
