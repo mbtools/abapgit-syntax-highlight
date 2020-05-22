@@ -9,18 +9,25 @@ body {
 
 /* properties + values */
 .class { text-align: right; }
+ 
 /* selector */
 .class:hover { text-decoration: none; }
+ 
 /* functions */
 .class { color: rgb(0,0,0); }
+ 
 /* units */    
 .class { font-size: 10px; }
+ 
 /* colors */
 .class { color: lemonchiffon; }
+ 
 /* extensions */
 .class { -ms-scrollbar-face-color: red }
+ 
 /* at_rules */
 .class { @font-face: "Arial" }
+ 
 /* html */
 div ul { font-size: 2em; }
 
