@@ -1,4 +1,12 @@
-/**
+/* next line was added */
+p  { color: yellow; }
+
+/* next line was changed */
+p  { color: orange; }
+
+/* next line was removed */
+
+/*
  * Multi-line comment
  */
 
@@ -9,35 +17,28 @@ body {
 
 /* properties + values */
 .class { text-align: right; }
- 
+
 /* selector */
 .class:hover { text-decoration: none; }
- 
+
 /* functions */
 .class { color: rgb(0,0,0); }
- 
+
+/* diff **/
+
 /* units */    
 .class { font-size: 10px; }
- 
+
 /* colors */
 .class { color: lemonchiffon; }
- 
+
 /* extensions */
 .class { -ms-scrollbar-face-color: red }
- 
+
 /* at_rules */
 .class { @font-face: "Arial" }
- 
+
 /* html */
 div ul { font-size: 2em; }
 
-
-/* next line was added */
-p  { color: yellow; }
-
-/* next line was changed */
-p  { color: red; }
-
-/* next line was removed */
-
-/* eof **/
+/* eof */
