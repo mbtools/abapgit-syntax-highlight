@@ -33,11 +33,11 @@ div ul { font-size: 2em; }
 
 
 /* next line was added */
-p  { color: yellow; }
 
 /* next line was changed */
-p  { color: red; }
+p  { color: yellow; }
 
 /* next line was removed */
+p  { color: yellow; }
 
 /* eof */

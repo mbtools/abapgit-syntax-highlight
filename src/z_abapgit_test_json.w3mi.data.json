@@ -3,12 +3,12 @@
     "array": ["value", true, false, null],
     
     "next line 1": "was added",
-    "name 1": "value",
 
     "next line 2": "was changed",
-    "name 2": "text",
+    "name 2": "value",
 
     "next line 3": "was removed",
+    "name 3": "value",
 
     "eof": "eof"
 }
