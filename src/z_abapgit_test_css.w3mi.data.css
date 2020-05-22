@@ -1,3 +1,11 @@
+/* next line was added */
+
+/* next line was changed */
+p  { color: yellow; }
+
+/* next line was removed */
+p  { color: yellow; }
+
 /*
  * Multi-line comment
  */
@@ -16,6 +24,8 @@ body {
 /* functions */
 .class { color: rgb(0,0,0); }
 
+/* diff */
+
 /* units */    
 .class { font-size: 10px; }
 
@@ -30,14 +40,5 @@ body {
 
 /* html */
 div ul { font-size: 2em; }
-
-
-/* next line was added */
-
-/* next line was changed */
-p  { color: yellow; }
-
-/* next line was removed */
-p  { color: yellow; }
 
 /* eof */
