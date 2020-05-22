@@ -10,9 +10,7 @@ REPORT z_abapgit_test_prog.
 DATA variable TYPE string.
 
 variable = 'some text'. " in-line comment
-
 variable = |some text|.
-
 variable = |some { variable } text|.
 
 * next line was added
