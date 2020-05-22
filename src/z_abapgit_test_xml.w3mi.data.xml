@@ -3,12 +3,12 @@
 	<xml_tag attr="attr_val"/>
 
 	<!--next line was added-->
-
+	<added_line/>
+	
 	<!--next line was changed-->
-	<changed_line/>
+	<changed_text/>
 
 	<!--next line was removed-->
-	<removed_line/>
 </xml_main>
 
 <!-- eof -->
