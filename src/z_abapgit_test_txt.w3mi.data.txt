@@ -1,11 +1,11 @@
 Some text
 
 Next line was added
+hello world
 
 Next line was changed
 hello you
 
 Next line was removed
-hello world
 
 eof
