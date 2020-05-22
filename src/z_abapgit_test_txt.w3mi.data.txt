@@ -3,7 +3,7 @@ Some text
 Next line was added
 
 Next line was changed
-hello world
+hello you
 
 Next line was removed
 hello world
