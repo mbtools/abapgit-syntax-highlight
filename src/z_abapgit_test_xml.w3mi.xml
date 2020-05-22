@@ -21,7 +21,7 @@
      <RELID>MI</RELID>
      <OBJID>Z_ABAPGIT_TEST_XML</OBJID>
      <NAME>mimetype</NAME>
-     <VALUE>&quot;application/ccxml+xml,&quot;</VALUE>
+     <VALUE>application/xml</VALUE>
     </WWWPARAMS>
    </PARAMS>
   </asx:values>
