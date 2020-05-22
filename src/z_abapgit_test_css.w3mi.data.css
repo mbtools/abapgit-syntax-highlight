@@ -15,13 +15,13 @@ body { background-image: /* in-line comment */ url("some text"); }
 
 /* diff */
 
-/* properties + values */ .class { text-align: right; }
-/* selector */            .class:hover { text-decoration: none; }
-/* functions */           .class { color: rgb(0,0,0); }
-/* units */               .class { font-size: 10px; }
-/* colors */              .class { color: lemonchiffon; }
-/* extensions */          .class { -ms-scrollbar-face-color: red }
-/* at_rules */            .class { @font-face: "Arial" }
+/* properties + values */ .myclass { text-align: right; }
+/* selector */            .myclass:hover { text-decoration: none; }
+/* functions */           .myclass { color: rgb(0,0,0); }
+/* units */               .myclass { font-size: 10px; }
+/* colors */              .myclass { color: lemonchiffon; }
+/* extensions */          .myclass { -ms-scrollbar-face-color: none }
+/* at_rules */            .myclass { @font-face: "Arial" }
 /* html */                div ul { font-size: 2em; }
 
 /* eof */
