@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <NAME>Z_ABAPGIT_TEST_XML</NAME>
-   <TEXT>Test for abapGit Syntax Highlight</TEXT>
+   <TEXT>Test for abapGit Syntax  Highlight</TEXT>
    <PARAMS>
     <WWWPARAMS>
      <RELID>MI</RELID>
